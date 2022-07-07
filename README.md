@@ -5,4 +5,4 @@ Full-stack web app similar to Ebay where users can bid/sell items, ask questions
 [Walkthrough of application](https://youtu.be/_CWA_v4f1sw)
 
 
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Full walkthrough of app](https://user-images.githubusercontent.com/19865455/177831821-60875c5e-42ac-4002-bdc9-ec681756b30b.png)](https://youtu.be/_CWA_v4f1sw "Walkthrough of application - Click to Watch!")
